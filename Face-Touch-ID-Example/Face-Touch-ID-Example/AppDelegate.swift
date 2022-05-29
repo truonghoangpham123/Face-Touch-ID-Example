@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Face-Touch-ID-Example
 //
-//  Created by KobePham on 28/05/2022.
+//  Created by Instajs on 29/05/2022.
 //
 
 import UIKit

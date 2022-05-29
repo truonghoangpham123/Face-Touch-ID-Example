@@ -7,102 +7,102 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		04A3C13728426E6F00953280 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A3C13628426E6F00953280 /* AppDelegate.swift */; };
-		04A3C13928426E6F00953280 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A3C13828426E6F00953280 /* SceneDelegate.swift */; };
-		04A3C13B28426E6F00953280 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A3C13A28426E6F00953280 /* ViewController.swift */; };
-		04A3C13E28426E6F00953280 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04A3C13C28426E6F00953280 /* Main.storyboard */; };
-		04A3C14028426E7100953280 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04A3C13F28426E7100953280 /* Assets.xcassets */; };
-		04A3C14328426E7100953280 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04A3C14128426E7100953280 /* LaunchScreen.storyboard */; };
-		40AF5AB12757BAE8C28E2F49 /* Pods_Face_Touch_ID_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A4CD4289EC1D6F8749545E71 /* Pods_Face_Touch_ID_Example.framework */; };
+		046492692843336500ABCE31 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 046492682843336500ABCE31 /* AppDelegate.swift */; };
+		0464926B2843336500ABCE31 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0464926A2843336500ABCE31 /* SceneDelegate.swift */; };
+		0464926D2843336500ABCE31 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0464926C2843336500ABCE31 /* ViewController.swift */; };
+		046492702843336500ABCE31 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0464926E2843336500ABCE31 /* Main.storyboard */; };
+		046492722843336700ABCE31 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 046492712843336700ABCE31 /* Assets.xcassets */; };
+		046492752843336700ABCE31 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 046492732843336700ABCE31 /* LaunchScreen.storyboard */; };
+		F2D84DA98EDC2C9D29CAB261 /* Pods_Face_Touch_ID_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 90EAC11C06808053E84B6A82 /* Pods_Face_Touch_ID_Example.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		04A3C13328426E6F00953280 /* Face-Touch-ID-Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Face-Touch-ID-Example.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		04A3C13628426E6F00953280 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		04A3C13828426E6F00953280 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		04A3C13A28426E6F00953280 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		04A3C13D28426E6F00953280 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		04A3C13F28426E7100953280 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		04A3C14228426E7100953280 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		04A3C14428426E7100953280 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		60045DEA346FC6A3DE82621F /* Pods-Face-Touch-ID-Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Face-Touch-ID-Example.release.xcconfig"; path = "Target Support Files/Pods-Face-Touch-ID-Example/Pods-Face-Touch-ID-Example.release.xcconfig"; sourceTree = "<group>"; };
-		62C2224E2FF5E2BD805582E0 /* Pods-Face-Touch-ID-Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Face-Touch-ID-Example.debug.xcconfig"; path = "Target Support Files/Pods-Face-Touch-ID-Example/Pods-Face-Touch-ID-Example.debug.xcconfig"; sourceTree = "<group>"; };
-		A4CD4289EC1D6F8749545E71 /* Pods_Face_Touch_ID_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Face_Touch_ID_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		046492652843336500ABCE31 /* Face-Touch-ID-Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Face-Touch-ID-Example.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		046492682843336500ABCE31 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		0464926A2843336500ABCE31 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		0464926C2843336500ABCE31 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		0464926F2843336500ABCE31 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		046492712843336700ABCE31 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		046492742843336700ABCE31 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		046492762843336700ABCE31 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		31E7CDC0327A1EFE34E7FB64 /* Pods-Face-Touch-ID-Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Face-Touch-ID-Example.release.xcconfig"; path = "Target Support Files/Pods-Face-Touch-ID-Example/Pods-Face-Touch-ID-Example.release.xcconfig"; sourceTree = "<group>"; };
+		90EAC11C06808053E84B6A82 /* Pods_Face_Touch_ID_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Face_Touch_ID_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		982F16CFC917F9B793AF2F04 /* Pods-Face-Touch-ID-Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Face-Touch-ID-Example.debug.xcconfig"; path = "Target Support Files/Pods-Face-Touch-ID-Example/Pods-Face-Touch-ID-Example.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		04A3C13028426E6F00953280 /* Frameworks */ = {
+		046492622843336500ABCE31 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				40AF5AB12757BAE8C28E2F49 /* Pods_Face_Touch_ID_Example.framework in Frameworks */,
+				F2D84DA98EDC2C9D29CAB261 /* Pods_Face_Touch_ID_Example.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		04A3C12A28426E6F00953280 = {
+		0464925C2843336500ABCE31 = {
 			isa = PBXGroup;
 			children = (
-				04A3C13528426E6F00953280 /* Face-Touch-ID-Example */,
-				04A3C13428426E6F00953280 /* Products */,
-				2BD3E8D4CAD5F1F191EFEDAE /* Pods */,
-				EB74CF889816860742DE81D5 /* Frameworks */,
+				046492672843336500ABCE31 /* Face-Touch-ID-Example */,
+				046492662843336500ABCE31 /* Products */,
+				E04317A6DD30E416F820E35B /* Pods */,
+				6AFFBA59744BB9AAC1AD7656 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
-		04A3C13428426E6F00953280 /* Products */ = {
+		046492662843336500ABCE31 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				04A3C13328426E6F00953280 /* Face-Touch-ID-Example.app */,
+				046492652843336500ABCE31 /* Face-Touch-ID-Example.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		04A3C13528426E6F00953280 /* Face-Touch-ID-Example */ = {
+		046492672843336500ABCE31 /* Face-Touch-ID-Example */ = {
 			isa = PBXGroup;
 			children = (
-				04A3C13628426E6F00953280 /* AppDelegate.swift */,
-				04A3C13828426E6F00953280 /* SceneDelegate.swift */,
-				04A3C13A28426E6F00953280 /* ViewController.swift */,
-				04A3C13C28426E6F00953280 /* Main.storyboard */,
-				04A3C13F28426E7100953280 /* Assets.xcassets */,
-				04A3C14128426E7100953280 /* LaunchScreen.storyboard */,
-				04A3C14428426E7100953280 /* Info.plist */,
+				046492682843336500ABCE31 /* AppDelegate.swift */,
+				0464926A2843336500ABCE31 /* SceneDelegate.swift */,
+				0464926C2843336500ABCE31 /* ViewController.swift */,
+				0464926E2843336500ABCE31 /* Main.storyboard */,
+				046492712843336700ABCE31 /* Assets.xcassets */,
+				046492732843336700ABCE31 /* LaunchScreen.storyboard */,
+				046492762843336700ABCE31 /* Info.plist */,
 			);
 			path = "Face-Touch-ID-Example";
 			sourceTree = "<group>";
 		};
-		2BD3E8D4CAD5F1F191EFEDAE /* Pods */ = {
+		6AFFBA59744BB9AAC1AD7656 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				62C2224E2FF5E2BD805582E0 /* Pods-Face-Touch-ID-Example.debug.xcconfig */,
-				60045DEA346FC6A3DE82621F /* Pods-Face-Touch-ID-Example.release.xcconfig */,
+				90EAC11C06808053E84B6A82 /* Pods_Face_Touch_ID_Example.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		E04317A6DD30E416F820E35B /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				982F16CFC917F9B793AF2F04 /* Pods-Face-Touch-ID-Example.debug.xcconfig */,
+				31E7CDC0327A1EFE34E7FB64 /* Pods-Face-Touch-ID-Example.release.xcconfig */,
 			);
 			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
-		EB74CF889816860742DE81D5 /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				A4CD4289EC1D6F8749545E71 /* Pods_Face_Touch_ID_Example.framework */,
-			);
-			name = Frameworks;
-			sourceTree = "<group>";
-		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		04A3C13228426E6F00953280 /* Face-Touch-ID-Example */ = {
+		046492642843336500ABCE31 /* Face-Touch-ID-Example */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 04A3C14728426E7100953280 /* Build configuration list for PBXNativeTarget "Face-Touch-ID-Example" */;
+			buildConfigurationList = 046492792843336700ABCE31 /* Build configuration list for PBXNativeTarget "Face-Touch-ID-Example" */;
 			buildPhases = (
-				048E0AC58F5F8171A91F871F /* [CP] Check Pods Manifest.lock */,
-				04A3C12F28426E6F00953280 /* Sources */,
-				04A3C13028426E6F00953280 /* Frameworks */,
-				04A3C13128426E6F00953280 /* Resources */,
+				146F4A47E7DC4400BE73D3C9 /* [CP] Check Pods Manifest.lock */,
+				046492612843336500ABCE31 /* Sources */,
+				046492622843336500ABCE31 /* Frameworks */,
+				046492632843336500ABCE31 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -110,25 +110,25 @@
 			);
 			name = "Face-Touch-ID-Example";
 			productName = "Face-Touch-ID-Example";
-			productReference = 04A3C13328426E6F00953280 /* Face-Touch-ID-Example.app */;
+			productReference = 046492652843336500ABCE31 /* Face-Touch-ID-Example.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		04A3C12B28426E6F00953280 /* Project object */ = {
+		0464925D2843336500ABCE31 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1320;
 				LastUpgradeCheck = 1320;
 				TargetAttributes = {
-					04A3C13228426E6F00953280 = {
+					046492642843336500ABCE31 = {
 						CreatedOnToolsVersion = 13.2.1;
 					};
 				};
 			};
-			buildConfigurationList = 04A3C12E28426E6F00953280 /* Build configuration list for PBXProject "Face-Touch-ID-Example" */;
+			buildConfigurationList = 046492602843336500ABCE31 /* Build configuration list for PBXProject "Face-Touch-ID-Example" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -136,31 +136,31 @@
 				en,
 				Base,
 			);
-			mainGroup = 04A3C12A28426E6F00953280;
-			productRefGroup = 04A3C13428426E6F00953280 /* Products */;
+			mainGroup = 0464925C2843336500ABCE31;
+			productRefGroup = 046492662843336500ABCE31 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				04A3C13228426E6F00953280 /* Face-Touch-ID-Example */,
+				046492642843336500ABCE31 /* Face-Touch-ID-Example */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		04A3C13128426E6F00953280 /* Resources */ = {
+		046492632843336500ABCE31 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				04A3C14328426E7100953280 /* LaunchScreen.storyboard in Resources */,
-				04A3C14028426E7100953280 /* Assets.xcassets in Resources */,
-				04A3C13E28426E6F00953280 /* Main.storyboard in Resources */,
+				046492752843336700ABCE31 /* LaunchScreen.storyboard in Resources */,
+				046492722843336700ABCE31 /* Assets.xcassets in Resources */,
+				046492702843336500ABCE31 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		048E0AC58F5F8171A91F871F /* [CP] Check Pods Manifest.lock */ = {
+		146F4A47E7DC4400BE73D3C9 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -185,31 +185,31 @@
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		04A3C12F28426E6F00953280 /* Sources */ = {
+		046492612843336500ABCE31 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				04A3C13B28426E6F00953280 /* ViewController.swift in Sources */,
-				04A3C13728426E6F00953280 /* AppDelegate.swift in Sources */,
-				04A3C13928426E6F00953280 /* SceneDelegate.swift in Sources */,
+				0464926D2843336500ABCE31 /* ViewController.swift in Sources */,
+				046492692843336500ABCE31 /* AppDelegate.swift in Sources */,
+				0464926B2843336500ABCE31 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		04A3C13C28426E6F00953280 /* Main.storyboard */ = {
+		0464926E2843336500ABCE31 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				04A3C13D28426E6F00953280 /* Base */,
+				0464926F2843336500ABCE31 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		04A3C14128426E7100953280 /* LaunchScreen.storyboard */ = {
+		046492732843336700ABCE31 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				04A3C14228426E7100953280 /* Base */,
+				046492742843336700ABCE31 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -217,7 +217,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		04A3C14528426E7100953280 /* Debug */ = {
+		046492772843336700ABCE31 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -268,7 +268,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -278,7 +278,7 @@
 			};
 			name = Debug;
 		};
-		04A3C14628426E7100953280 /* Release */ = {
+		046492782843336700ABCE31 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -323,7 +323,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
@@ -333,9 +333,9 @@
 			};
 			name = Release;
 		};
-		04A3C14828426E7100953280 /* Debug */ = {
+		0464927A2843336700ABCE31 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 62C2224E2FF5E2BD805582E0 /* Pods-Face-Touch-ID-Example.debug.xcconfig */;
+			baseConfigurationReference = 982F16CFC917F9B793AF2F04 /* Pods-Face-Touch-ID-Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -348,6 +348,7 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -361,9 +362,9 @@
 			};
 			name = Debug;
 		};
-		04A3C14928426E7100953280 /* Release */ = {
+		0464927B2843336700ABCE31 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 60045DEA346FC6A3DE82621F /* Pods-Face-Touch-ID-Example.release.xcconfig */;
+			baseConfigurationReference = 31E7CDC0327A1EFE34E7FB64 /* Pods-Face-Touch-ID-Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -376,6 +377,7 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -392,25 +394,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		04A3C12E28426E6F00953280 /* Build configuration list for PBXProject "Face-Touch-ID-Example" */ = {
+		046492602843336500ABCE31 /* Build configuration list for PBXProject "Face-Touch-ID-Example" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				04A3C14528426E7100953280 /* Debug */,
-				04A3C14628426E7100953280 /* Release */,
+				046492772843336700ABCE31 /* Debug */,
+				046492782843336700ABCE31 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		04A3C14728426E7100953280 /* Build configuration list for PBXNativeTarget "Face-Touch-ID-Example" */ = {
+		046492792843336700ABCE31 /* Build configuration list for PBXNativeTarget "Face-Touch-ID-Example" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				04A3C14828426E7100953280 /* Debug */,
-				04A3C14928426E7100953280 /* Release */,
+				0464927A2843336700ABCE31 /* Debug */,
+				0464927B2843336700ABCE31 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 04A3C12B28426E6F00953280 /* Project object */;
+	rootObject = 0464925D2843336500ABCE31 /* Project object */;
 }
